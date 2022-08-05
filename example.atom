@@ -1,0 +1,10 @@
+<atom encoding="utf-8" xmlns="atom" xmlns:atom="atomobject" datatype="base64">
+	<index>'base64encodedstringhere'</index>  <!-- string like JSON object: { { "name":"filename", "extension":".js" , "c1":"2039", "c2":"4592"}, { "name":"filename", "extension":".js" , "c1":"2039", "c2":"4592"} } -->
+	<files>
+		<file name="index" extension="html" directory="/">'base64encodedstringhere'</file>
+		<file name="styles" extension="css" directory="/">'base64encodedstringhere'</file>
+		<file name="script" extension="js" directory="/">'base64encodedstringhere'</file>
+		<file name="serviceworker" extension="js" directory="/">'base64encodedstringhere'</file>
+		<file name="corefont" extension="ttf" directory="/">'base64encodedstringhere'</file>
+	</files>
+</atom>
